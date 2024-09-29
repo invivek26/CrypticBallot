@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "solc": "^0.8.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15"
+  }
+}
