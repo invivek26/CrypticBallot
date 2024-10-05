@@ -25,4 +25,11 @@ Through the development of CrypticBallot, we gained insights into the regulatory
 
 What's Next for CrypticBallot
 
+#Owners:
+#Vansh Saxena 
+#Shreyash Singh
+#Vivek Indlebele Narshima Prasad
+#Sarthak Aggarwal
+#
+
 Moving forward, we can do extensive beta testing to gather user feedback and make necessary improvements. We can create audit features for the application so that people can verify the votes themselves. We also aim to enhance the platform's features, including multi-language support and advanced analytics for election monitoring. 
