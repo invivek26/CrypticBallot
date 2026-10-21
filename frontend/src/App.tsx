@@ -84,7 +84,7 @@ export default function App() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           <Card className="bg-gradient-to-br from-red-500 to-red-600 transform hover:scale-105 transition-transform duration-200">
             <CardHeader>
-              <CardTitle className="text-2xl font-bold text-white">Red Team</CardTitle>
+              <CardTitle className="text-2xl font-bold text-white">Red</CardTitle>
             </CardHeader>
             <CardContent>
               <motion.p className="text-6xl font-bold text-white" animate={redControls}>
@@ -95,7 +95,7 @@ export default function App() {
           </Card>
           <Card className="bg-gradient-to-br from-blue-500 to-blue-600 transform hover:scale-105 transition-transform duration-200">
             <CardHeader>
-              <CardTitle className="text-2xl font-bold text-white">Blue Team</CardTitle>
+              <CardTitle className="text-2xl font-bold text-white">Blue</CardTitle>
             </CardHeader>
             <CardContent>
               <motion.p className="text-6xl font-bold text-white" animate={blueControls}>
